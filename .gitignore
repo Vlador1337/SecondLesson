@@ -1,0 +1,9 @@
+target/
+/.idea
+/.allure
+/target
+/build
+/allure_result
+/out
+*.iml
+*.log
